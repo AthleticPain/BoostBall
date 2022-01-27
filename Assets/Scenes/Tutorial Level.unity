@@ -643,14 +643,6 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3158963914788889592, guid: bc63d8381dccb1d4da04deaa1384518d, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.0245209
-      objectReference: {fileID: 0}
-    - target: {fileID: 3158963914788889592, guid: bc63d8381dccb1d4da04deaa1384518d, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -0.19918
-      objectReference: {fileID: 0}
     - target: {fileID: 3158963914823993075, guid: bc63d8381dccb1d4da04deaa1384518d, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1355,10 +1347,6 @@ PrefabInstance:
       propertyPath: fuelSlider
       value: 
       objectReference: {fileID: 725384782}
-    - target: {fileID: 7184066756496780848, guid: 7820458d595551d43943f19ce3516725, type: 3}
-      propertyPath: w_Material
-      value: 
-      objectReference: {fileID: 2100000, guid: 796307e6b10bca743a04daefceaa8f9f, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7820458d595551d43943f19ce3516725, type: 3}
 --- !u!1 &1085831337

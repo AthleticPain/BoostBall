@@ -96,6 +96,7 @@ public class Movement : MonoBehaviour
         StopAllThrusterParticleFX();
         if (!thruster.isPlaying)
         {
+            Debug.Log("PlayingSFX");
             thruster.Play();
         }
     }
