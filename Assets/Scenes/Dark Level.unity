@@ -3150,6 +3150,10 @@ PrefabInstance:
       propertyPath: fuelSlider
       value: 
       objectReference: {fileID: 469430538}
+    - target: {fileID: 7184066756496780848, guid: 7820458d595551d43943f19ce3516725, type: 3}
+      propertyPath: fuelBurnRate
+      value: 15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7820458d595551d43943f19ce3516725, type: 3}
 --- !u!1001 &3158963915774218717
@@ -3282,7 +3286,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6092049970473146448, guid: 0b38d1aef2abfea49ab4a16d3a230b43, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6092049970473146448, guid: 0b38d1aef2abfea49ab4a16d3a230b43, type: 3}
       propertyPath: m_LocalPosition.z
